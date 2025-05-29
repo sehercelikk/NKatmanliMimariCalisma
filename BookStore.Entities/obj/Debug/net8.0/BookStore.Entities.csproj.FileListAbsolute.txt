@@ -1,0 +1,11 @@
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\bin\Debug\net8.0\BookStore.Entities.deps.json
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\bin\Debug\net8.0\BookStore.Entities.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\bin\Debug\net8.0\BookStore.Entities.pdb
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\BookStore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\BookStore.Entities.AssemblyInfoInputs.cache
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\BookStore.Entities.AssemblyInfo.cs
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\BookStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\BookStore.Entities.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\refint\BookStore.Entities.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\BookStore.Entities.pdb
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Entities\obj\Debug\net8.0\ref\BookStore.Entities.dll
