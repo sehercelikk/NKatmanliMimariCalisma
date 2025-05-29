@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "KitapIcerik";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/Admin/Home">Anasayfa</a></li>
+        <li class="breadcrumb-item active" aria-current="page">İçerikler</li>
+    </ol>
+</nav>
+
+
+
+<div class="card">
+    <div class="card-header py-1">
+        <div class="row">
+            <div class="col-12">
+                <div class="float-end">
+                    <button type="button" class="btn btn-outline-danger btnAddModal" data-bs-toggle="modal" data-bs-target="#addUpdateModal">Ekle</button>
+                </div>
+                <h4>İçerikler</h4>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row data-area"></div>
+        <button type="button" id="btnGetHidden" hidden></button>
+    </div>
+</div>
+
+
+<div id="addUpdateModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="addUpdateModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addUpdateModalLabel"></h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-12 mb-2">
+                            <div class="input-group">
+                                <label class="input-group-text" style="min-width: 120px; display: inline-block;">Yazar Adı</label>
+                                <select id="yazarDropdown" required name="YazarId" class="form-control required" data-label="Yazar Adı">
+                                    <option value="0">Seçiniz</option> <!-- Varsayılan boş seçenek -->
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12 mb-2">
+                            <div class="input-group">
+                                <label class="input-group-text" style="min-width: 120px; display: inline-block;">Kitap Adı</label>
+                                <select id="kitapDropdown" required name="KitapId" class="form-control required" data-label="Kitap Adı">
+                                    <option value="0">Seçiniz</option> <!-- Varsayılan boş seçenek -->
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-12 mb-2">
+                            <div class="input-group">
+                                <input class="form-control required" data-label="Dosya" type="file" accept=".pdf" id="Dosya" name="Dosya" value="" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <input type="text" class="form-control" id="kitapIcerikId" hidden />
+
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-light" data-bs-dismiss="modal">İptal</button>
+                <button type="button" class="btn btn-primary" id="btnExecuteAction">Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/js/admin/kitapicerik.js" asp-append-version="true"></script>
+}
+
+
+
+
+
+
