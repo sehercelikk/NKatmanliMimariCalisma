@@ -1,0 +1,17 @@
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.deps.json
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.pdb
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Entities.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Entities.pdb
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.AssemblyReference.cache
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfoInputs.cache
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfo.cs
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStor.CE57676E.Up2Date
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.runtimeconfig.json
+C:\Users\Seher CELIK\Desktop\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.genruntimeconfig.cache
